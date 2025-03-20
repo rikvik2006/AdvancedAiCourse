@@ -25,3 +25,12 @@ Per attivare i virtual env ho usato il seguente comando:
 .venv/python310/bin/activate
 .venv/python313/bin/activate
 ```
+
+# Risoluzine problemi
+
+In caso di problemi nella selezione del virtual env su visual studio code, al posto di utilizzare lo script `virtualenv` utilizzare `venv`.
+
+```bash
+python310 -m venv .venv/python310
+python313 -m venv .venv/python313
+```
