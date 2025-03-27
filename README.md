@@ -34,3 +34,7 @@ In caso di problemi nella selezione del virtual env su visual studio code, al po
 python310 -m venv .venv/python310
 python313 -m venv .venv/python313
 ```
+
+# Link al notebook di jupyter salvato sul mio github gist per avviare i modelli con ollama
+
+[Notebook](https://colab.research.google.com/gist/rikvik2006/9832bad19649ed47de85b0eedc04b7db/ollama-ngrok-corso-ai-2425-itispininfarina.ipynb)
